@@ -25,7 +25,7 @@
 
 	<dependencies>
 
-		<dependency> <groupId>org.mindrot</groupId> <artifactId>jbcrypt</artifactId> <version>0.3m</version> </dependency>
+		<dependency> <groupId>org.mindrot</groupId> <artifactId>jbcrypt</artifactId> <version>0.4</version> </dependency>
 
 
 		<!-- J2EE -->
